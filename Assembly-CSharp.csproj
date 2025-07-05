@@ -65,13 +65,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.43f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Piano\PianoUIManager.cs" />
     <Compile Include="Assets\Scripts\Game Manager &amp; State Management\MainMenuManager.cs" />
     <Compile Include="Assets\Scripts\Player &amp; Camera\PlayerGrabber.cs" />
     <Compile Include="Assets\Scripts\Game Manager &amp; State Management\SettingsManager.cs" />
     <Compile Include="Assets\Scripts\Game Manager &amp; State Management\SettingsUIController.cs" />
+    <Compile Include="Assets\Scripts\Piano\MusicPuzzleManager.cs" />
     <Compile Include="Assets\Scripts\Objek &amp; Interaksi Lingkungan\PushOnlyObject.cs" />
     <Compile Include="Assets\Scripts\Game Manager &amp; State Management\AudioManager.cs" />
     <Compile Include="Assets\Scripts\Objek &amp; Interaksi Lingkungan\VulnerableObject.cs" />
+    <Compile Include="Assets\Scripts\Piano\PianoController.cs" />
     <Compile Include="Assets\Scripts\Player &amp; Camera\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Objek &amp; Interaksi Lingkungan\GrabbableObject.cs" />
     <Compile Include="Assets\Scripts\Objek &amp; Interaksi Lingkungan\ObjectBase.cs" />

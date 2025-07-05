@@ -20,6 +20,7 @@ public class InGameUIManager : MonoBehaviour
         }
         // Pastikan waktu berjalan normal saat scene dimulai
         Time.timeScale = 1f;
+        AudioManager.Instance.PlayMusic("Proetta");
     }
 
     // --- TAMBAHAN BARU ---

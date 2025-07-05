@@ -6,7 +6,7 @@ public class MainMenuManager : MonoBehaviour
     void Start()
     {
         // Memainkan musik tema utama saat game dimulai
-        AudioManager.Instance.PlayMusic("MainMenuTheme");
+        AudioManager.Instance.PlayMusic("Anproetta");
     }
     public void StartGame()
     {
